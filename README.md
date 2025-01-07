@@ -1,6 +1,6 @@
 # **Job Fraud Detection Application**
 
--> **Live: https://job-posting-authenticity-analysis.onrender.com**
+-> **Live: https://job_posting_authenticity_analysis.onrender.com**
 
 ## **Overview**
 This project is a web-based application designed to detect fraudulent job postings. Using machine learning models and a user-friendly interface, the application predicts whether a job posting is legitimate or fraudulent based on the provided job description.
@@ -74,7 +74,7 @@ python app.py
 
 ## **Project Structure**
 ```
-Job-Posting-Authenticity-Analysis/
+Job_Posting_Authenticity_Analysis/
 ├──Job_Posting_Authenticity_Analysis.ipynb   # Code Fiile
 ├── app.py                 # Flask application
 ├── templates/
