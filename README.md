@@ -39,7 +39,7 @@ This project is a web-based application designed to detect fraudulent job postin
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/KolluriRenusree/Job_Posting_Authenticity_Analysis.git
-cd Job-Posting-Authenticity-Analysis
+cd Job_Posting_Authenticity_Analysis
 ```
 ### 2. Set Up a Virtual Environment
 #### For Linux/Mac:
